@@ -1,1 +1,1 @@
-# asian_put_mc
+# Calculation asian option price by Monte Carlo
